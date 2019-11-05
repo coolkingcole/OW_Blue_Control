@@ -47,10 +47,10 @@ optional arguments:
 
 ## Goals
 
--Make all of the characteristics subscription based that can be so reduce board reads
--Log to a file
--gyro output
--maybe gps logging
+-Make all of the characteristics subscription based that can be so reduce board reads<br/>
+-Log to a file<br/>
+-gyro output<br/>
+-maybe gps logging<br/>
 
 ### Credits
 Thanks to [@beeradmoore](https://github.com/beeradmoore) for figuring out the md5 chunks for the serial stream reasponse via the ponewheel issue: https://github.com/ponewheel/android-ponewheel/issues/86#issuecomment-440809066
