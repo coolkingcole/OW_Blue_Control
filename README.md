@@ -41,9 +41,8 @@ optional arguments:
 ```
 ## Tips
 
--This tool will not work if you are currently connected to your board with the phone app
-
--Make sure you have the dependencies install and are using python 3
+-This tool will not work if you are currently connected to your board with the phone app<br/>
+-Make sure you have the dependencies install and are using python 3<br/>
 
 ## Goals
 
