@@ -18,7 +18,7 @@ python3 alpha.py -h
 or
 python3 alpha.py --help
 --------------------------------------------------------------------------
-usage: alpha_1.py [-h] [-ww | -p | -s] [-lo | -ld | -cl] [-bi] [-cs] [-ls]
+usage: alpha.py [-h] [-ww | -p | -s] [-lo | -ld | -cl] [-bi] [-cs] [-ls]
                   [-v]
                   device
 
